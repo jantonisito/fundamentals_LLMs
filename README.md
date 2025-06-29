@@ -1,5 +1,7 @@
 ## Fundamentals of Large Language Models: A hands-on approach in 2 Weeks
 
+*Nov 1, 2023*
+
 Example code for the O'Reilly course [Fundamentals of Large Language Models: A hands-on approach in 2 Weeks](https://learning.oreilly.com/live-events/fundamentals-of-large-language-models-a-hands-on-approach-in-2-weeks/0636920089792/0636920096825/)
 
 **Course description:**
